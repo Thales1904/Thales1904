@@ -19,4 +19,4 @@ Graduando em Engenharia da Computação pelo Instituto Federal de Ciências, Edu
 
 - **GitHub:** [Thales1904](https://github.com/Thales1904)
 - **ORCID:** [Meu ORCID](https://orcid.org/0009-0000-5145-2814)
-- **E-mail:** [Envie um Email](mailto:thalestrajano7@gmail.com)
+- **E-mail:** [thalestrajano7@gmail.com](mailto:thalestrajano7@gmail.com)
