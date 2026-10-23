@@ -6,14 +6,14 @@ Graduando em Engenharia da Computação pelo Instituto Federal de Ciências, Edu
 
 ### Banco de dados e tratamento de dados
 * Estrutura do Nome:
-  * [Banco de dados / [ferramenta]](#) — [Descrição do projeto].
-  * Exemplo: [Banco de dados / Pandas](#) — Limpeza e tratamento de dados com Python.
+  * Banco-de-dados/[Ferramenta]/[Descrição-do-projeto].
+  * Exemplo: Banco-de-dados/Pandas/PRF
 
 
 ### Jogos
 * Estrutura do Nome:
-  * [Jogo / [nome do jogo]](#) — [Descrição do projeto].
-  * Exemplo: [Jogo / Campo Minado](#) — Jogo desenvolvido em Python.
+  * Jogo/[Nome-do-jogo]/[Descrição-do-projeto].
+  * Exemplo: Jogo/Campo-Minado/Jogo-desenvolvido-em-Python.
 
 ## 📫 Contato
 
